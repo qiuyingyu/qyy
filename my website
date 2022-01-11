@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>菜鸟教程(runoob.com)</title>
+</head>
+<body>
+<h1>邱瀛宇的大作业</h1>
+<h2>计算机各学科课程之间的关系图</h2>
+<p>大专业：计算机科学与技术</p>
+<ol>
+    <li>数据结构</li>
+    <ul>
+        <li>C语言</li>
+    </ul>
+    <li>计算机组成原理</li>
+    <ul>
+        <li>大学计算机基础</li>
+        <li>计算机系统概述</li>
+        <li>数据的表示和运算</li>
+        <li>储存器层次结构</li>
+        <li>指令系统</li>
+        <li>中央处理器</li>
+        <li>总线</li>
+        <li>输入/输出系统</li>
+    </ul>
+    <li>操作系统</li>
+    <ul>
+        <li>操作系统的概述</li>
+        <li>进程管理</li>
+        <li>内存管理</li>
+        <li>文件管理</li>
+        <li>输入输出系统</li>
+    </ul>
+    <li>计算机网络</li>
+    <ul>
+        <li>TCP/IP协议层次</li>
+    </ul>
+</ol>
+<img border="0" src="https://img-blog.csdnimg.cn/20210713123703831.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3VuY2xlX2xs,size_16,color_FFFFFF,t_70" alt="Pulpit rock" width="304" height="228">
+<h3>计算机学科各课程有用的参考资料</h3>
+<a href="https://www.bilibili.com/video/BV1b7411N798?from=search&seid=18427536661746657161&spm_id_from=333.337.0.0" >数据结构的视频教程</a>
+<a href="https://www.bilibili.com/video/BV1BE411D7ii?from=search&seid=1359800270947630864&spm_id_from=333.337.0.0" >计算机组成原理的视频教程</a>
+<a href="https://www.bilibili.com/video/BV1YE411D7nH?from=search&seid=13001459564419148222&spm_id_from=333.337.0.0" >操作系统的视频教程</a>
+<a href="https://www.bilibili.com/video/BV19E411D78Q?from=search&seid=5135931012356019772&spm_id_from=333.337.0.0" >计算机网络的视频教程</a>
+<h4>我对计算机专业的认识</h4>
+<p>计算机毫无疑问是当下最热门的专业，其原因在于未来计算机的应用将会越来越广泛和深入。随着如今人工智能，大数据等计算机尖端技术的大热，社会各行各业逐渐
+    与计算机联系得越来越紧密，甚至可以说是密不可分。计算机凭借其强大的计算能力，可以使几乎每一个行业的运作效率与能力有着大幅度的提升。所以可以说如果想
+    在未来有所作为，或者最简单的——谋得一份好工作，计算机相关的知识技术是必不可少的。而要学好计算机科学与技术，首先要夯实自己的逻辑思维能力，学好离散数学，复变函数
+    等这些基础性的课程。进而学好数据结构，计算机组成原理等等这些必修的专业课知识，然后才算入了计算机的大门，有了一定的工作能力。当然，如果想要在这个
+    领域精通，成为专家，则就需要经过研究生，博士生的科研道路，努力钻研才能有所建树。</p>
+<h5>我的学业规划</h5>
+<ul>
+    <li>本科阶段：</li>
+    <ul>
+        <li>最终任务：获得保研资格</li>
+        <li>大一：学好每一门课程，并夯实数学和编程语言基础，并且取得好成绩</li>
+        <li>大二：认真学习每一门专业课，开始接触数学和物理竞赛以及科研</li>
+        <li>大三：学业上的规划同大二。同时关注当时社会的发展趋势和需求点，开始往那些领域靠拢，并主动联系那些领域的导师。</li>
+        <li>大四：开始预习研究生的课程，并且提前参加科研。</li>
+    </ul>
+     <li>研究生阶段：暂时离我还很遥远，没什么概念，暂定为努力做社会所需技术领域的科研，为将来从业后能为社会进步做出推动做贡献。</li>
+</ul>    
+</body>
+</html>
